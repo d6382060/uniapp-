@@ -1,0 +1,1 @@
+<view><block wx:if="{{r0}}"><canvas class="mycanvas" canvas-id="mycanvas" bindtouchstart="{{a}}" bindtouchmove="{{b}}" bindtouchend="{{c}}"></canvas></block><view class="footer"><view class="left" bindtap="{{d}}">完成</view><view class="right" bindtap="{{e}}">清除</view></view></view>
